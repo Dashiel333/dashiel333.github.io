@@ -29,7 +29,7 @@ This project was created from scratch to practice and reinforce my HTML and CSS 
 
 ## 🎯 Goal
 
-The main purpose of this project is educational. It’s a foundational step as I transition into frontend development. I’m currently focused on improving my skills and will soon be learning JavaScript and modern frontend tools.
+The main purpose of this project is educational. It’s a foundational step as I transition into frontend development. I’m currently focused on improving my skills and  and modern frontend tools.
 
 ---
 
